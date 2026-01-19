@@ -42,3 +42,10 @@ FROM job_market_sample
 WHERE job_title IS NOT NULL
   AND location IS NOT NULL;
 
+
+
+ ## Visualizations
+![Top Roles](screenshot_total_jobs.png)
+
+
+
